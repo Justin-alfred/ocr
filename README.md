@@ -13,3 +13,11 @@ Tombol untuk membersihkan gambar dan respons.
 - Python 3.x
 - pip install -r requirements.txt
 - install tesseract di https://github.com/tesseract-ocr/tesseract
+
+# Cara Menggunakan
+- python app.py
+  > Tunggu sampai GUI terbuka
+- Command
+  > `ENTER` untuk mengambil screenshot dan melakukan OCR.
+    > Hasil OCR akan dikirim ke API AI (Claude Sonnet, GPT-3, Gemini Pro, Luminai).
+    > Respons akan ditampilkan di area teks GUI.
