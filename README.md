@@ -21,3 +21,4 @@ Tombol untuk membersihkan gambar dan respons.
   > `ENTER` untuk mengambil screenshot dan melakukan OCR.
     > Hasil OCR akan dikirim ke API AI (Claude Sonnet, GPT-3, Gemini Pro, Luminai).
     > Respons akan ditampilkan di area teks GUI.
+  > `ESC` untuk keluar dari aplikasi.
