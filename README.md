@@ -10,6 +10,6 @@ Penyimpanan gambar hasil tangkapan layar dalam folder image.
 Tombol untuk membersihkan gambar dan respons.
 
 # Instalasi
-Python 3.x
-pip install -r requirements.txt
-install tesseract di https://github.com/tesseract-ocr/tesseract
+- Python 3.x
+- pip install -r requirements.txt
+- install tesseract di https://github.com/tesseract-ocr/tesseract
